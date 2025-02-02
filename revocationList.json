@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://nagi023.github.io/revocationList.json",
+  "type": "RevocationList",
+  "issuer": "https://nagi023.github.io/issuer.json",
+  "revokedAssertions": []
+}
